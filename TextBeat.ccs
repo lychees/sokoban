@@ -1,0 +1,16 @@
+<Solution>
+  <PropertyGroup Name="TextBeat" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="WelcomeScene.csd" Type="Scene" />
+        <TTF Name="PixelFont.ttf" />
+        <Project Name="SelectScene.csd" Type="Scene" />
+        <Project Name="SettingScene.csd" Type="Scene" />
+        <Project Name="SokobanScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="AboutScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

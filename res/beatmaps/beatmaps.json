@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Demo Song",
+    "cover": "http://foo.bar/hello.jpg",
+    "description": "LOREM IPSUM DOLOR\nSIT AMET, CONSECTETUR\nADIPISICING ELIT.\n\nAUTHOR: DEMO\nDIFFICULTY: 5 (MAX: 10)",
+    "beatmap": "res/beatmaps/demo_song/beatmap.json",
+    "music": "res/beatmaps/demo_song/demo_song.mp3"
+  },
+  {
+    "title": "Demo Song 2",
+    "cover": "http://foo.bar/hello.jpg",
+    "description": "2LOREM IPSUM DOLOR\nSIT AMET, CONSECTETUR\nADIPISICING ELIT.\n\nAUTHOR: DEMO\nDIFFICULTY: 5 (MAX: 10)",
+    "beatmap": "res/beatmaps/demo_song/beatmap.json",
+    "music": "res/beatmaps/demo_song/demo_song.mp3"
+  }
+]
